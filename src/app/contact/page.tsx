@@ -166,7 +166,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <div className="text-[#0F0825] font-semibold text-sm">Phone</div>
-                  <div className="text-[#64748B] text-sm">+92 300 000 0000</div>
+                  <div className="text-[#64748B] text-sm">+92 347 777 5679</div>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -175,7 +175,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <div className="text-[#0F0825] font-semibold text-sm">Location</div>
-                  <div className="text-[#64748B] text-sm">Karachi, Pakistan</div>
+                  <div className="text-[#64748B] text-sm">DHA, Lahore</div>
                 </div>
               </div>
             </div>
